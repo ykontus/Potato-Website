@@ -28,6 +28,6 @@ body{
 
   width: 100px;
   height: 50px;
-  background-color: rgba(100,50,150,1);
-  transform: translate(50px, 50px);
+  background-color: rgba(50,150,50,1);
+  /* transform: translate(50px, 50px); */
 }
